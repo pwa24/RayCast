@@ -1,7 +1,6 @@
 CMPT 361
 Assignment 3
 Patrick Wang
-301160793
 April 7, 2014
 
 To run the racetracer, execute /make and then:
@@ -22,7 +21,7 @@ step_max: levels of recurrsion
 +p: enabling super-sampling
 
 
-I have implemented all features of the ray tracer. The following are some sources I used:
+Sources:
 
 Ray Tracer tutorial: http://www.scratchapixel.com/lessons/3d-basic-lessons/lesson-1-writing-a-simple-raytracer/
 Uniform Sphere point selection: http://mathworld.wolfram.com/SpherePointPicking.html
