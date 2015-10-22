@@ -1,13 +1,14 @@
+```
 CMPT 361
 Assignment 3
 Patrick Wang
 April 7, 2014
+```
 
-To run the racetracer, execute /make and then:
-
+##To Run
+```
 ./raycast [–u | –d] step_max <options>
 
-where,
 -d: default scene
 -u: user scene
 step_max: levels of recurrsion
@@ -19,9 +20,10 @@ step_max: levels of recurrsion
 +c: inclusion of chess board pattern
 +f: enabling diffuse rendering using stochastic ray generations
 +p: enabling super-sampling
+```
 
+![alt tag](https://raw.github.com/pwa24/RayCast/master/mine.bmp)
 
-Sources:
-
+####Sources:
 Ray Tracer tutorial: http://www.scratchapixel.com/lessons/3d-basic-lessons/lesson-1-writing-a-simple-raytracer/
 Uniform Sphere point selection: http://mathworld.wolfram.com/SpherePointPicking.html
